@@ -1,6 +1,6 @@
 # Data Engineering Zoomcamp
 
-Syllabus
+## Syllabus
 
 * [Week 1: Introduction & Prerequisites](#week-1-introduction--prerequisites)
 * [Week 2: Workflow Orchestration](#week-2-workflow-orchestration)
@@ -10,41 +10,14 @@ Syllabus
 * [Week 6: Streaming](#week-6-streaming)
 * [Week 7, 8 & 9: Project](#week-7-8--9-project)
 
-## Taking the course
 
-### 2023 Cohort
 
-* **Start**: 16 January 2023 (Monday) at 18:00 CET
-* **Registration link**: https://airtable.com/shr6oVXeQvSI5HuWD
-* Subscribe to our [public Google Calendar](https://calendar.google.com/calendar/?cid=ZXIxcjA1M3ZlYjJpcXU0dTFmaG02MzVxMG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) (it works from Desktop only)
-* [Cohort folder](cohorts/2023/) with homeworks and deadlines 
-
-### Self-paced mode
-
-All the materials of the course are freely available, so that you
-can take the course at your own pace
-
-* Follow the suggested syllabus (see below) week by week
-* You don't need to fill in the registration form. Just start watching the videos and join Slack
+## For the questions
 * Check [FAQ](https://docs.google.com/document/d/19bnYs80DwuUimHM65UV3sylsCn2j1vziPOwzBwQrebw/edit?usp=sharing) if you have problems
-* If you can't find a solution to your problem in FAQ, ask for help in Slack
 
 
 
-### Asking for help in Slack
-
-The best way to get support is to use [DataTalks.Club's Slack](https://datatalks.club/slack.html). Join the [`#course-data-engineering`](https://app.slack.com/client/T01ATQK62F8/C01FABYF2RG) channel.
-
-To make discussions in Slack more organized:
-
-* Follow [these recommendations](asking-questions.md) when asking for help
-* Read the [DataTalks.Club community guidelines](https://datatalks.club/slack/guidelines.html)
-
-
-## Syllabus
-
-> **Note:** NYC TLC changed the format of the data we use to parquet. But you can still access
-> the csv files [here](https://github.com/DataTalksClub/nyc-tlc-data).
+## Syllabus Details
 
 ### [Week 1: Introduction & Prerequisites](week_1_basics_n_setup)
 
@@ -159,15 +132,6 @@ Prior experience with data engineering is not required.
 
 
 
-## Instructors
-
-- Ankush Khanna (https://linkedin.com/in/ankushkhanna2)
-- Sejal Vaidya (https://linkedin.com/in/vaidyasejal)
-- Victoria Perez Mola (https://www.linkedin.com/in/victoriaperezmola/)
-- Kalise Richmond (https://www.linkedin.com/in/kaliserichmond/)
-- Jeff Hale (https://www.linkedin.com/in/-jeffhale/)
-- Alexey Grigorev (https://linkedin.com/in/agrigorev)
-
 ## Tools
 
 For this course, you'll need to have the following software installed on your computer:
@@ -178,36 +142,4 @@ For this course, you'll need to have the following software installed on your co
 * Terraform
 
 See [Week 1](week_1_basics_n_setup) for more details about installing these tools
-
-
-
-## FAQ
-
-
-* **Q**: I registered, but haven't received a confirmation email. Is it normal?
-  **A**: Yes, it's normal. It's not automated. But you will receive an email eventually.
-* **Q**: At what time of the day will it happen?
-  **A**: Office hours will happen on Mondays at 17:00 CET. But everything will be recorded, so you can watch it whenever it's convenient for you.
-* **Q**: Will there be a certificate?
-  **A**: Yes, if you complete the project.
-* **Q**: I'm 100% not sure I'll be able to attend. Can I still sign up?
-  **A**: Yes, please do! You'll receive all the updates and then you can watch the course at your own pace.
-* **Q**: Do you plan to run a ML engineering course as well?
-**A**: Glad you asked. [We do](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) :)
-* **Q**: I'm stuck! I've got a technical question!
-  **A**: Ask on Slack! And check out the [student FAQ](https://docs.google.com/document/d/19bnYs80DwuUimHM65UV3sylsCn2j1vziPOwzBwQrebw/edit?usp=sharing); many common issues have been answered already. If your issue is solved, please add how you solved it to the document. Thanks!
-
-
-
-## Supporters and partners
-
-Thanks to the course sponsors for making it possible to create this course
-
-<p align="center">
-  <a href="https://www.prefect.io/">
-    <img height="100" src="https://github.com/DataTalksClub/mlops-zoomcamp/raw/main/images/prefect.png">
-  </a>
-</p>
-
-Do you want to support our course and our community? Please reach out to [alexey@datatalks.club](alexey@datatalks.club)
 
